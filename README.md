@@ -19,3 +19,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 2. Klasöre girin: `cd kalp-sagligi-app`
 3. Bağımlılıkları yükleyin: `npm install`
 4. Uygulamayı başlatın: `npx expo start`
+
+
+link:
+ https://expo.dev/accounts/utkuzunn_14/projects/app/builds/8f9c3879-ba26-444a-83e3-853d6561727f
